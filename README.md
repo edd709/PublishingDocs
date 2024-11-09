@@ -13,10 +13,10 @@ SwiftUI Pills Series
 20241106200120
 
 **Tópico:**  
-SwiftUI View Lifecycle
+Protocols Chapter1
 
 **Descripción:**  
-Ciclo de vida de una vista SwiftUI
+The Protocols in Swift (Chapter 1) 
 
 **Observaciones:**  
 No</p></td></tr></tbody></table>
